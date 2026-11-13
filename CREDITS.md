@@ -14,3 +14,8 @@ Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://u
 | `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
 
 Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+
+## Marca y fotos del negocio
+
+- Logo: «logo 2.jpg» publicado en https://www.lanusguiacomercial.com.ar/biopilatesyestetica.html.
+- Foto de la sala: CIMG5773 de la misma ficha (resolución original baja; se agrandó para la demo).
